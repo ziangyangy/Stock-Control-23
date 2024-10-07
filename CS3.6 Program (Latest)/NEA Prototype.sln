@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NEA Prototype", "NEA Prototype\NEA Prototype.vbproj", "{8C8596C4-FED3-482F-8464-40CC4BA4D69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8596C4-FED3-482F-8464-40CC4BA4D69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8596C4-FED3-482F-8464-40CC4BA4D69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8596C4-FED3-482F-8464-40CC4BA4D69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8596C4-FED3-482F-8464-40CC4BA4D69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB82129-F400-408B-AD64-16A607C791EB}
+	EndGlobalSection
+EndGlobal

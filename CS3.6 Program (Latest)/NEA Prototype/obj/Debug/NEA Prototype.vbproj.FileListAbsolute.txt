@@ -1,0 +1,192 @@
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.vbprojAssemblyReference.cache
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.Form1.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.Resources.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.vbproj.GenerateResource.cache
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.vbproj.CoreCompileInputs.cache
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\bin\Debug\NEA Prototype.exe.config
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\bin\Debug\NEA Prototype.exe
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\bin\Debug\NEA Prototype.pdb
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\bin\Debug\NEA Prototype.xml
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.exe
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.xml
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA Prototype.pdb
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.Stock_List.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStock.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.frmManagementMenu.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStock.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.frmUpdateStock.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.btnDeleteOrder.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Documents\CS3_28228_CN_YA_Z\CS3e_files\NEA Prototype\NEA Prototype\obj\Debug\NEA_Prototype.frmAddOrder.resources
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\bin\Debug\NEA Prototype.exe.config
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\bin\Debug\NEA Prototype.exe
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\bin\Debug\NEA Prototype.pdb
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\bin\Debug\NEA Prototype.xml
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.vbprojAssemblyReference.cache
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddOrder.resources
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStock.resources
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStock.resources
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmManagementMenu.resources
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmUpdateStock.resources
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.Resources.resources
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.vbproj.GenerateResource.cache
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.vbproj.CoreCompileInputs.cache
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.exe
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.xml
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.pdb
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmStockAnalysis.resources
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderList.resources
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderStatus.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\bin\Debug\NEA Prototype.exe.config
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\bin\Debug\NEA Prototype.exe
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\bin\Debug\NEA Prototype.pdb
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\bin\Debug\NEA Prototype.xml
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.vbprojAssemblyReference.cache
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddOrder.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStock.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStock.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmManagementMenu.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderList.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderStatus.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.btnDeleteOrder.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmStockAnalysis.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmUpdateStock.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.Form1.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.Resources.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.Stock_List.resources
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.vbproj.GenerateResource.cache
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.vbproj.CoreCompileInputs.cache
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.exe
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.xml
+C:\Users\fr33C\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA Prototype.pdb
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmPastOrders.resources
+C:\Users\brigh\OneDrive - Bilborough College\NEA Prototype (5)\NEA Prototype\obj\Debug\NEA_Prototype.frmStockList.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\bin\Debug\NEA Prototype.exe.config
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\bin\Debug\NEA Prototype.exe
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\bin\Debug\NEA Prototype.pdb
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\bin\Debug\NEA Prototype.xml
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA Prototype.vbprojAssemblyReference.cache
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmAddOrder.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStock.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStock.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmManagementMenu.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderList.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderStatus.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmPastOrders.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmStockAnalysis.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmUpdateStock.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.Resources.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmStockList.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA Prototype.vbproj.GenerateResource.cache
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA Prototype.vbproj.CoreCompileInputs.cache
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA Prototype.exe
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA Prototype.xml
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA Prototype.pdb
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmLogin.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStaff.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmStaffMenu.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStaff.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmStaffDetails.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\bin\Debug\NEA Prototype.exe.config
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\bin\Debug\NEA Prototype.exe
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\bin\Debug\NEA Prototype.pdb
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\bin\Debug\NEA Prototype.xml
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA Prototype.vbprojAssemblyReference.cache
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmAddOrder.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStaff.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStock.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStaff.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStock.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmLogin.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmManagementMenu.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderList.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderStatus.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmPastOrders.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmStaffDetails.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmStaffMenu.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmStockAnalysis.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmUpdateStock.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.Resources.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA_Prototype.frmStockList.resources
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA Prototype.vbproj.GenerateResource.cache
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA Prototype.vbproj.CoreCompileInputs.cache
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA Prototype.exe
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA Prototype.xml
+C:\Users\brigh\Downloads\CS3 (4).6 Program\NEA Prototype\obj\Debug\NEA Prototype.pdb
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.exe.config
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.exe
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.pdb
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.xml
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.vbprojAssemblyReference.cache
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddOrder.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStaff.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStock.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStaff.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStock.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmLogin.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmManagementMenu.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderList.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderStatus.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmPastOrders.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStaffDetails.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStaffMenu.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStockAnalysis.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmUpdateStock.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.Resources.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStockList.resources
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.vbproj.GenerateResource.cache
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.vbproj.CoreCompileInputs.cache
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.exe
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.xml
+C:\Users\brigh\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.pdb
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.exe.config
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.exe
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.pdb
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.xml
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.vbprojAssemblyReference.cache
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddOrder.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStaff.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStock.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStaff.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStock.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmLogin.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmManagementMenu.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderList.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderStatus.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmPastOrders.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStaffDetails.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStaffMenu.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStockAnalysis.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmUpdateStock.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.Resources.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStockList.resources
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.vbproj.GenerateResource.cache
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.vbproj.CoreCompileInputs.cache
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.exe
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.xml
+\\bil-file2\studentdocuments$\2021 Intake\bil0080304\Downloads\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.pdb
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.exe.config
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.exe
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.pdb
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\bin\Debug\NEA Prototype.xml
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.vbprojAssemblyReference.cache
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddOrder.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStaff.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmAddStock.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStaff.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmDeleteStock.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmLogin.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmManagementMenu.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderList.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmOrderStatus.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmPastOrders.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStaffDetails.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStaffMenu.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStockAnalysis.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmUpdateStock.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.Resources.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA_Prototype.frmStockList.resources
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.vbproj.GenerateResource.cache
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.vbproj.CoreCompileInputs.cache
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.exe
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.xml
+C:\Users\fr33C\OneDrive - Bilborough College\CS3.6 Program (Latest)\NEA Prototype\obj\Debug\NEA Prototype.pdb

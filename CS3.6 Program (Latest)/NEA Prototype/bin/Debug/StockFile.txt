@@ -1,0 +1,20 @@
+1,"Plain Flour",20,20,#FALSE#,0.99
+2,"Self Raising Flour",50,20,#FALSE#,6.49
+3,"Strong White Flour",40,20,#FALSE#,6.39
+4,"Pineapple",100,120,#TRUE#,1.5
+5,"Apple",3,7,#TRUE#,0.39
+6,"Banana",90,100,#TRUE#,0.45
+7,"Aluminium Foil",10,7,#FALSE#,1.99
+9,"Diced Chicken",20,10,#FALSE#,3.99
+10,"Light Soy Sauce",3,7,#TRUE#,1.99
+11,"Dark Soy Sauce",30,6,#FALSE#,1.49
+12,"White Vinegar",30,5,#FALSE#,1.69
+20,"Jasmin Rice",30,28,#FALSE#,10.99
+21,"Basil",29,20,#FALSE#,1.39
+22,"Oregano",33,25,#FALSE#,1.59
+35,"Corn Starch",67,20,#FALSE#,0.99
+36,"Garlic",39,40,#TRUE#,0.49
+37,"Paprika",30,20,#FALSE#,0.99
+38,"White Wine",20,10,#FALSE#,8.99
+39,"Beef",20,15,#FALSE#,4.99
+40,"Chicken Breast",14,15,#TRUE#,3.99
